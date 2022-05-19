@@ -5,7 +5,7 @@ int IN1 = 12;
 int IN2 = 14;
 int IN3 = 27;
 int IN4 = 26;
-int led1 = 13;
+int led1 = 34;
 int led2 = 35;
 
 #if !defined(CONFIG_BT_ENABLED) || !defined(CONFIG_BLUEDROID_ENABLED)
